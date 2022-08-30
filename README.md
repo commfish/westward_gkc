@@ -1,11 +1,11 @@
 # westward_gkc
 Golden King Crab Survey and Research Analyses  
 
-# Contact
+## Contact
 Tyler Jackson  
 tyler.jackson@alaska.gov  
 
-# Repository Structure
+## Repository Structure
 ### Code 
 Code (mostly R code) for various analyses, organized in subdirectories by topic.  
 
