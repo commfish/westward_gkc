@@ -6,14 +6,14 @@ Tyler Jackson
 tyler.jackson@alaska.gov  
 
 # Repository Structure
-## Code 
+### Code 
 Code (mostly R code) for various analyses, organized in subdirectories by topic.  
 
-## Data
+### Data
 Various data organized in subdirectories by topic, not available on Github, contact owner above.  
 
-## Output
+### Output
 Various output files (i.e. tables, R data objects, etc), organized in subdirectories by topic. Not available on Github, contact owner above.  
 
-## Figures
+### Figures
 Data visualizations organized in subdirectories by topic. Not available on Github, contact owner above.  
